@@ -1,0 +1,7 @@
+I:\IIHT\MobileRechargeApp\Dotnet_FSE_PA_MobileRechargeApp\MobileRechargeApiApp.Entities\bin\Debug\netstandard2.0\MobileRechargeApiApp.Entities.deps.json
+I:\IIHT\MobileRechargeApp\Dotnet_FSE_PA_MobileRechargeApp\MobileRechargeApiApp.Entities\bin\Debug\netstandard2.0\MobileRechargeApiApp.Entities.dll
+I:\IIHT\MobileRechargeApp\Dotnet_FSE_PA_MobileRechargeApp\MobileRechargeApiApp.Entities\bin\Debug\netstandard2.0\MobileRechargeApiApp.Entities.pdb
+I:\IIHT\MobileRechargeApp\Dotnet_FSE_PA_MobileRechargeApp\MobileRechargeApiApp.Entities\obj\Debug\netstandard2.0\MobileRechargeApiApp.Entities.AssemblyInfoInputs.cache
+I:\IIHT\MobileRechargeApp\Dotnet_FSE_PA_MobileRechargeApp\MobileRechargeApiApp.Entities\obj\Debug\netstandard2.0\MobileRechargeApiApp.Entities.AssemblyInfo.cs
+I:\IIHT\MobileRechargeApp\Dotnet_FSE_PA_MobileRechargeApp\MobileRechargeApiApp.Entities\obj\Debug\netstandard2.0\MobileRechargeApiApp.Entities.dll
+I:\IIHT\MobileRechargeApp\Dotnet_FSE_PA_MobileRechargeApp\MobileRechargeApiApp.Entities\obj\Debug\netstandard2.0\MobileRechargeApiApp.Entities.pdb

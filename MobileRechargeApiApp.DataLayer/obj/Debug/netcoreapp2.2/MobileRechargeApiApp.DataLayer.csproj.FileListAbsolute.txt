@@ -1,0 +1,11 @@
+I:\IIHT\MobileRechargeApp\Dotnet_FSE_PA_MobileRechargeApp\MobileRechargeApiApp.DataLayer\bin\Debug\netcoreapp2.2\MobileRechargeApiApp.DataLayer.deps.json
+I:\IIHT\MobileRechargeApp\Dotnet_FSE_PA_MobileRechargeApp\MobileRechargeApiApp.DataLayer\bin\Debug\netcoreapp2.2\MobileRechargeApiApp.DataLayer.dll
+I:\IIHT\MobileRechargeApp\Dotnet_FSE_PA_MobileRechargeApp\MobileRechargeApiApp.DataLayer\bin\Debug\netcoreapp2.2\MobileRechargeApiApp.DataLayer.pdb
+I:\IIHT\MobileRechargeApp\Dotnet_FSE_PA_MobileRechargeApp\MobileRechargeApiApp.DataLayer\bin\Debug\netcoreapp2.2\MobileRechargeApiApp.Entities.dll
+I:\IIHT\MobileRechargeApp\Dotnet_FSE_PA_MobileRechargeApp\MobileRechargeApiApp.DataLayer\bin\Debug\netcoreapp2.2\MobileRechargeApiApp.Entities.pdb
+I:\IIHT\MobileRechargeApp\Dotnet_FSE_PA_MobileRechargeApp\MobileRechargeApiApp.DataLayer\obj\Debug\netcoreapp2.2\MobileRechargeApiApp.DataLayer.csprojAssemblyReference.cache
+I:\IIHT\MobileRechargeApp\Dotnet_FSE_PA_MobileRechargeApp\MobileRechargeApiApp.DataLayer\obj\Debug\netcoreapp2.2\MobileRechargeApiApp.DataLayer.AssemblyInfoInputs.cache
+I:\IIHT\MobileRechargeApp\Dotnet_FSE_PA_MobileRechargeApp\MobileRechargeApiApp.DataLayer\obj\Debug\netcoreapp2.2\MobileRechargeApiApp.DataLayer.AssemblyInfo.cs
+I:\IIHT\MobileRechargeApp\Dotnet_FSE_PA_MobileRechargeApp\MobileRechargeApiApp.DataLayer\obj\Debug\netcoreapp2.2\MobileRechargeApiApp.DataLayer.csproj.CopyComplete
+I:\IIHT\MobileRechargeApp\Dotnet_FSE_PA_MobileRechargeApp\MobileRechargeApiApp.DataLayer\obj\Debug\netcoreapp2.2\MobileRechargeApiApp.DataLayer.dll
+I:\IIHT\MobileRechargeApp\Dotnet_FSE_PA_MobileRechargeApp\MobileRechargeApiApp.DataLayer\obj\Debug\netcoreapp2.2\MobileRechargeApiApp.DataLayer.pdb
